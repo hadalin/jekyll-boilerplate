@@ -1,0 +1,5 @@
+name: Jekyll boilerplate
+markdown: redcarpet
+pygments: true
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'deploy.sh']
+baseurl: /

@@ -1,0 +1,9 @@
+name: Jekyll boilerplate
+markdown: redcarpet
+pygments: true
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'deploy.sh']
+baseurl: /path/to/site/
+assets:
+  baseurl: /path/to/site/
+  js_compressor: yui
+  css_compressor: yui
